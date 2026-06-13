@@ -1,5 +1,5 @@
-import { FaPhp, FaNode, FaReact, FaDatabase, FaJsSquare, FaJQuery, FaGit, FaGithub } from 'react-icons/fa';
-import { SiMongodb, SiMysql, SiNextdotjs, SiTailwindcss, SiTypescript, SiPostman, SiDocker } from 'react-icons/si';
+import { FaPhp, FaNode, FaReact, FaDatabase, FaJsSquare, FaGit, FaGithub } from 'react-icons/fa';
+import { SiMongodb, SiMysql, SiNextdotjs, SiTailwindcss, SiTypescript, SiPostman, SiDocker, SiJquery } from 'react-icons/si';
 
 export const skillsData = [
   {
@@ -10,7 +10,7 @@ export const skillsData = [
       { name: 'JavaScript', level: 'Expert', icon: FaJsSquare },
       { name: 'TypeScript', level: 'Advanced', icon: SiTypescript },
       { name: 'Tailwind CSS', level: 'Advanced', icon: SiTailwindcss },
-      { name: 'jQuery', level: 'Advanced', icon: FaJQuery },
+      { name: 'jQuery', level: 'Advanced', icon: SiJquery },
     ],
   },
   {

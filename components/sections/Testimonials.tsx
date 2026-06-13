@@ -86,7 +86,7 @@ const Testimonials = () => {
 
                     {/* Quote */}
                     <p className="text-gray-400 leading-relaxed flex-grow italic">
-                      "{testimonial.quote}"
+                      &quot;{testimonial.quote}&quot;
                     </p>
 
                     {/* Author */}
