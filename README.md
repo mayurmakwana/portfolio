@@ -14,7 +14,7 @@ A premium, production-ready portfolio website built with cutting-edge technologi
 - **Icons**: React Icons
 - **Email**: Nodemailer
 
-### 📋 Features
+### ✨ Features
 
 ✅ Responsive dark theme design
 ✅ Glassmorphism UI components
@@ -91,7 +91,7 @@ NEXT_PUBLIC_EMAIL_JS_TEMPLATE_ID=your_template_id
 NEXT_PUBLIC_EMAIL_JS_PUBLIC_KEY=your_public_key
 ```
 
-### 📱 Sections
+### 📄 Sections
 
 1. **Hero** - Professional introduction with CTA
 2. **About** - Background and expertise
@@ -117,7 +117,7 @@ NEXT_PUBLIC_EMAIL_JS_PUBLIC_KEY=your_public_key
 - Static generation where possible
 - CSS-in-JS optimization
 
-### 📄 License
+### 📜 License
 
 MIT License - Feel free to use this template for your portfolio!
 
