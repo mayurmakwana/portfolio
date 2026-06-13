@@ -91,7 +91,7 @@ const Contact = () => {
           </motion.h2>
           <motion.div variants={itemVariants} className="h-1 w-20 bg-gradient-to-r from-accent-500 to-accent-400 mx-auto" />
           <motion.p variants={itemVariants} className="text-gray-400 mt-4 max-w-2xl mx-auto">
-            Have a project in mind? Let's discuss how I can help bring your ideas to life.
+            Have a project in mind? Let&apos;s discuss how I can help bring your ideas to life.
           </motion.p>
         </motion.div>
 

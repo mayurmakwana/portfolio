@@ -64,7 +64,7 @@ const About = () => {
             <div>
               <h3 className="text-2xl md:text-3xl font-bold mb-4">Senior Full Stack Developer</h3>
               <p className="text-gray-400 leading-relaxed">
-                With over 10 years of professional experience, I've helped startups and enterprises build robust, scalable web applications. My passion lies in creating elegant solutions to complex problems and mentoring junior developers.
+                With over 10 years of professional experience, I&apos;ve helped startups and enterprises build robust, scalable web applications. My passion lies in creating elegant solutions to complex problems and mentoring junior developers.
               </p>
             </div>
 
@@ -89,7 +89,7 @@ const About = () => {
             </div>
 
             <motion.p className="text-gray-400 leading-relaxed">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge through technical blog posts.
+              When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge through technical blog posts.
             </motion.p>
           </motion.div>
         </motion.div>

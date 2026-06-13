@@ -60,7 +60,7 @@ const Hero = () => {
 
         {/* Main heading */}
         <motion.h1 variants={itemVariants} className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-          Hi, I'm <span className="gradient-text">Mayur Makwana</span>
+          Hi, I&apos;m <span className="gradient-text">Mayur Makwana</span>
         </motion.h1>
 
         {/* Subtitle */}
